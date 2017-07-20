@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "apple-pay-xcode-test-3",
+    "description": "An empty new project",
+    "slug": "apple-pay-xcode-test-3",
+    "privacy": "public",
+    "sdkVersion": "18.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app.png",
+    "loading": {
+      "icon": "./assets/icons/loading.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.expo.xcodeapplepaytest3"
+    },
+    "android": {
+      "package": "com.expo.xcodeapplepaytest3"
+    },
+    "isDetached": true,
+    "detach": {
+      "scheme": "exp8c9b667e8ad2406ba93d228beaf5ef61",
+      "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v1.17.0-sdk18.0.0-b4aff885-a9a8-4733-9fa9-ec28bef01e15.tar.gz",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v1.17.0-sdk18.0.0-4680412d-04c4-47ed-9161-88e01d76be96.tar.gz"
+    }
+  }
+}
